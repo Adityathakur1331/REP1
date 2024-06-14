@@ -1,2 +1,2 @@
 # REP1
-Aditya thakur
+Aditya Thakur
